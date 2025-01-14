@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+#include<vector>
 #define ll long long
 
 class Solution {
