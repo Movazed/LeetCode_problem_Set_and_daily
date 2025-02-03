@@ -12,6 +12,6 @@ public:
         if (is_sorted(pivot, nums.end()) && nums.back() <= nums.front()) {
             return true;
         }
-                return false;
+        return false;
     }
 };
