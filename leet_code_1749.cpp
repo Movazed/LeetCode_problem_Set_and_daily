@@ -15,6 +15,7 @@ class Solution {
                 minprefixsum = min(minprefixsum, prefixsum);
                 maxprefixsum = max(maxprefixsum, prefixsum);
             }
+            
             return maxprefixsum - minprefixsum;
 
         }
