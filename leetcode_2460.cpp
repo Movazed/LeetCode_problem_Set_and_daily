@@ -5,7 +5,7 @@ class Solution {
     public:
         vector<int> applyOperations(vector<int>& nums) {
             ll n = nums.size();
-             ll inz = 0;
+            ll inz = 0;
 
              for(ll i = 0; i < n - 1; i++){
                 if(nums[i] == nums[i + 1]){
