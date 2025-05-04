@@ -1,68 +1,97 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
- //Definition for a binary tree node.
-  struct TreeNode {
-      int val;
-      TreeNode *left;
-      TreeNode *right;
-      TreeNode() : val(0), left(nullptr), right(nullptr) {}
-      TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-      TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
-  };
+// Binary Tree Node structure
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode() : val(0), left(nullptr), right(nullptr) {}
+    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+};
 
 class Solution {
-    public:
-        int getMax(TreeNode* root){
-            if(!root){
-                return -1;
+public:
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if (!root) return nullptr; // Tree is empty or node not found
+
+        if (root->val > key) {
+            // Search in the left subtree
+            root->left = deleteNode(root->left, key);
+        } else if (root->val < key) {
+            // Search in the right subtree
+            root->right = deleteNode(root->right, key);
+        } else {
+            // Found the node to delete
+            if (!root->left) {
+                TreeNode* temp = root->right;
+                delete root; // Free memory
+                return temp; // Replace with right child
+            }
+            if (!root->right) {
+                TreeNode* temp = root->left;
+                delete root; // Free memory
+                return temp; // Replace with left child
             }
 
-            while (root->left)
-            {
-                root = root->left;
+            // Node has two children:
+            // Get inorder successor (smallest in right subtree)
+            TreeNode* temp = root->right;
+            while (temp->left) {
+                temp = temp->left;
             }
-            return root->val;            
+
+            // Copy inorder successor's value
+            root->val = temp->val;
+
+            // Delete the inorder successor
+            root->right = deleteNode(root->right, temp->val);
         }
+        return root;
+    }
+};
 
-        TreeNode* deleteNode(TreeNode* root, int key) {
-            if(!root){
-                return NULL;
-            }
+// Helper function to insert nodes (to build initial tree)
+TreeNode* insert(TreeNode* root, int val) {
+    if (!root) return new TreeNode(val);
+    if (val < root->val)
+        root->left = insert(root->left, val);
+    else
+        root->right = insert(root->right, val);
+    return root;
+}
 
-            if(root->val == key){
-                if(!root->left && !root->right){
-                    delete root;
-                    return NULL;
-                }
+// Helper function for in-order traversal (to verify BST)
+void inorder(TreeNode* root) {
+    if (!root) return;
+    inorder(root->left);
+    cout << root->val << " ";
+    inorder(root->right);
+}
 
-                else if(!root->left && !root->right){
-                    TreeNode* rightNode = root->right;
-                    root->right = nullptr;
-                    delete root;
-                    return rightNode;
-                }
-                else if(root->left && !root->right){
-                    TreeNode* leftNode = root->left;
-                    root->left = nullptr;
-                    delete root;
-                    return leftNode;
-                }
-                else if(root->left && root->right){
-                    int minValue = getMax(root->left);
-                    root->val = minValue;
+int main() {
+    // Building a sample BST
+    vector<int> values = {50, 30, 70, 20, 40, 60, 80};
+    TreeNode* root = nullptr;
+    for (int val : values) {
+        root = insert(root, val);
+    }
 
-                    root->left = deleteNode(root->left, minValue);
-                    return root;
-                }
-            }
+    cout << "Initial BST (In-order): ";
+    inorder(root);
+    cout << "\n";
 
-            else if(root->val < key){
-                root->right = deleteNode(root->right, key);
-            }
-            else {
-                root->left = deleteNode(root->left, key);
-            }
-            return root;
-        }
-    };
+    Solution sol;
+
+    int key = 70; // Node to delete
+    cout << "Deleting node with value " << key << "\n";
+
+    root = sol.deleteNode(root, key);
+
+    cout << "BST after deletion (In-order): ";
+    inorder(root);
+    cout << "\n";
+
+    return 0;
+}
