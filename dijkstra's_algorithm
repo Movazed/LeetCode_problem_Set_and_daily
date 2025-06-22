@@ -1,0 +1,7 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+#define pair<int, int> pii
+
+void dijkstra(int src, vector<vector<pii>>& adj, vector<int>& dist){})
