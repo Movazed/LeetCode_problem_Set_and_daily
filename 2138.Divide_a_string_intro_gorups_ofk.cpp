@@ -1,3 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
 class Solution {
 public:
     vector<string> divideString(string s, int k, char fill) {
@@ -13,8 +17,8 @@ public:
             curr += s[i];
 
             if(curr.size() == k){
-                ans.push_back(cur);
-                cur = "";
+                ans.push_back(curr);
+                curr = "";
             }
         }
         return ans;
