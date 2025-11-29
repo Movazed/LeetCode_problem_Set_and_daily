@@ -1,6 +1,9 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-return haystack.find(needle);
+        string hs = haystack;
+        string nd = needle;
+
+        return hs.find(nd);
     }
 };
