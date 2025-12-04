@@ -22,6 +22,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 ## String Matching
 |  |
 | ------- |
@@ -39,4 +40,12 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
