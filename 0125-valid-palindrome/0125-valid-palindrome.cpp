@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // it actually doesn't beats 100% sorry guys might be misleading its a creative one tho .....
     bool isPalindrome(string s) {
         for(char &c : s){
             c = tolower(static_cast<unsigned char>(c));
