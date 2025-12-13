@@ -146,4 +146,20 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
