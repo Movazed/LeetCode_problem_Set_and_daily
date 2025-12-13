@@ -19,6 +19,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0125-valid-palindrome](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 ## String Matching
 |  |
 | ------- |
@@ -55,6 +57,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Prefix Sum
 |  |
@@ -105,6 +108,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
