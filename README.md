@@ -53,6 +53,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
@@ -129,4 +130,16 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
