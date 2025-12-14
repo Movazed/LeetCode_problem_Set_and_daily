@@ -1,20 +1,35 @@
+#define vi vector<int>
+#define ll long long
+const int MOD = 1e9 + 7;
 class Solution {
 public:
-    int numberOfWays(string s) {
-        const long long mod = 1e9 + 7;
-        vector<int> seatIdx;
-        for(int i = 0; i < s.size(); ++i)
-            if(s[i] == 'S') seatIdx.push_back(i);
-        
-        int n = seatIdx.size();
-        if(n == 0 || n % 2 == 1) return 0; // invalid if no seats or odd number
-        
-        long long res = 1;
-        for(int i = 2; i < n; i += 2) {
-            int left = seatIdx[i - 1];
-            int right = seatIdx[i];
-            res = (res * (right - left)) % mod;
+    int numberOfWays(string corridor) {
+        string cor = corridor;
+        vi si;
+        for(int i = 0; i < cor.length(); ++i){
+            if(cor[i] == 'S'){
+                si.push_back(i);
+            }
+
         }
-        return res;
+        ll ns = si.size();
+
+
+        if(ns == 0 || ns % 2 != 0){
+            return 0;
+        }
+
+        ll res = 1;
+
+        for(int j = 1; j < ns - 1; j += 2){
+            int ind2 = si[j];
+
+            int ind2p1 = si[j + 1];
+
+            ll gp = ind2p1 - ind2;
+            res = (res * gp) % MOD;
+        }
+
+        return (int)res;
     }
 };
