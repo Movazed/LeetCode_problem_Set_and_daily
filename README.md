@@ -89,6 +89,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Dynamic Programming
 |  |
 | ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Queue
@@ -107,6 +108,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -171,4 +173,8 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
+## Memoization
+|  |
+| ------- |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
