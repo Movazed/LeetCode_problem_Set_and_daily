@@ -27,6 +27,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0009-palindrome-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0009-palindrome-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2485-find-the-pivot-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
@@ -44,6 +45,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 ## String Matching
@@ -86,6 +88,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Dynamic Programming
 |  |
 | ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Queue
 |  |
