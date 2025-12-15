@@ -15,6 +15,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
 | [1929-concatenation-of-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -71,6 +72,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
 | [2485-find-the-pivot-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2485-find-the-pivot-integer) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Geometry
@@ -98,10 +100,12 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Queue
 |  |
 | ------- |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
@@ -176,8 +180,13 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Memoization
 |  |
 | ------- |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+## Binary Search
+|  |
+| ------- |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
