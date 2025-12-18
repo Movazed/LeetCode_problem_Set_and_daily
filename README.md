@@ -206,4 +206,8 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Database
+|  |
+| ------- |
+| [1158-market-analysis-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
