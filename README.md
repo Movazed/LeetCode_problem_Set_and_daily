@@ -27,6 +27,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Geometry
 |  |
 | ------- |
@@ -114,6 +116,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Queue
 |  |
 | ------- |
