@@ -132,6 +132,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
@@ -179,11 +180,13 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -214,4 +217,12 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1115-print-foobar-alternately) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
