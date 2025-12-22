@@ -85,6 +85,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
@@ -191,6 +192,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -235,6 +237,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Monotonic Stack
 |  |
@@ -252,6 +255,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Union Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
@@ -291,8 +295,13 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Trie
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
