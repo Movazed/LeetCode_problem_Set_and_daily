@@ -37,6 +37,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0009-palindrome-number) |
+| [0282-expression-add-operators](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0282-expression-add-operators) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -57,6 +58,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0125-valid-palindrome) |
+| [0282-expression-add-operators](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -242,4 +244,8 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
