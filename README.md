@@ -10,6 +10,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+| [0335-self-crossing](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0335-self-crossing) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
@@ -41,6 +42,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0009-palindrome-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0009-palindrome-number) |
 | [0282-expression-add-operators](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0282-expression-add-operators) |
+| [0335-self-crossing](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0335-self-crossing) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -100,6 +102,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0335-self-crossing) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Stack
 |  |
