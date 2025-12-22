@@ -9,6 +9,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
+| [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
@@ -227,6 +228,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Monotonic Stack
 |  |
@@ -262,20 +264,25 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
