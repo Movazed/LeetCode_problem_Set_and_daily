@@ -11,6 +11,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 | [0335-self-crossing](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
@@ -67,6 +68,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0282-expression-add-operators](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0282-expression-add-operators) |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0301-remove-invalid-parentheses) |
+| [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -82,6 +84,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0146-lru-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
@@ -288,4 +291,8 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
