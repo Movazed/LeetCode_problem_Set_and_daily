@@ -85,6 +85,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 ## String Matching
 |  |
@@ -112,6 +113,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2485-find-the-pivot-integer) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
