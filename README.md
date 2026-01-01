@@ -6,6 +6,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0066-plus-one) |
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
@@ -53,6 +54,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
