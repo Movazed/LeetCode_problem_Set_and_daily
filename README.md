@@ -156,6 +156,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0403-frog-jump](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0403-frog-jump) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
