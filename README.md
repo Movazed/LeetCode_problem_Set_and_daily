@@ -30,6 +30,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -61,6 +62,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0391-perfect-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
