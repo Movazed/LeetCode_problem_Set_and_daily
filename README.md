@@ -249,11 +249,13 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -266,6 +268,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Greedy
 |  |
 | ------- |
