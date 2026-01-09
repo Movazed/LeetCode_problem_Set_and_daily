@@ -115,6 +115,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
@@ -251,12 +252,14 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -265,11 +268,13 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0301-remove-invalid-parentheses) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Greedy
 |  |
