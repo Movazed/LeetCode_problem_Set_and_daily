@@ -7,6 +7,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
@@ -143,6 +144,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
@@ -157,6 +159,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0354-russian-doll-envelopes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0403-frog-jump) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -210,6 +213,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
@@ -306,6 +310,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Database
