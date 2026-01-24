@@ -37,6 +37,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
@@ -85,6 +86,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0125-valid-palindrome) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
@@ -295,6 +298,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
