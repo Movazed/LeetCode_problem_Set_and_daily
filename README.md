@@ -22,6 +22,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
@@ -319,6 +320,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
