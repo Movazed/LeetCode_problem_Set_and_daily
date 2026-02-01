@@ -48,6 +48,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -220,6 +221,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
@@ -238,6 +240,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Brainteaser
 |  |
 | ------- |
