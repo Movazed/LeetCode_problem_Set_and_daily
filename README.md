@@ -106,6 +106,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -161,6 +162,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -183,6 +185,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
