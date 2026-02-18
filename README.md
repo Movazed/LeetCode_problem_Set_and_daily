@@ -219,6 +219,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
