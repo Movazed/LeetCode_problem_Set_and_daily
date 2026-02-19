@@ -27,6 +27,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0517-super-washing-machines) |
+| [0546-remove-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0546-remove-boxes) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
@@ -207,6 +208,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
+| [0546-remove-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0546-remove-boxes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -362,6 +364,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0546-remove-boxes) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Binary Search
 |  |
