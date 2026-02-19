@@ -411,6 +411,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Data Stream
 |  |
 | ------- |
