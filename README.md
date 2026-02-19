@@ -21,6 +21,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0403-frog-jump](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -108,6 +109,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0420-strong-password-checker) |
 | [0466-count-the-repetitions](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0696-count-binary-substrings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -193,6 +195,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -234,6 +237,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0354-russian-doll-envelopes) |
+| [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -304,6 +308,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -419,6 +424,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 ## Data Stream
 |  |
 | ------- |
