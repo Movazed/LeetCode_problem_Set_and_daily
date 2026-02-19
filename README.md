@@ -327,6 +327,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
+| [0715-range-module](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0715-range-module) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -459,6 +460,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0715-range-module) |
 | [3454-separate-squares-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
@@ -476,6 +478,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0699-falling-squares) |
+| [0715-range-module](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0715-range-module) |
 ## Trie
 |  |
 | ------- |
