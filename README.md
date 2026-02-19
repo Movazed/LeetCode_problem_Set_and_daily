@@ -93,6 +93,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0125-valid-palindrome) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
+| [0696-count-binary-substrings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -104,6 +105,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0301-remove-invalid-parentheses](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0420-strong-password-checker) |
+| [0696-count-binary-substrings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
