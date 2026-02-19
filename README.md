@@ -24,6 +24,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
@@ -362,6 +363,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0354-russian-doll-envelopes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0483-smallest-good-base](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
@@ -404,17 +406,20 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [3454-separate-squares-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
@@ -422,6 +427,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
@@ -429,6 +435,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 ## Trie
 |  |
 | ------- |
