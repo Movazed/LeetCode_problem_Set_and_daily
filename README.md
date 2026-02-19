@@ -22,6 +22,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
+| [0480-sliding-window-median](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -136,6 +137,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0391-perfect-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0391-perfect-rectangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0480-sliding-window-median) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -217,6 +219,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0480-sliding-window-median) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -442,6 +445,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0420-strong-password-checker) |
+| [0480-sliding-window-median](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0480-sliding-window-median) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
