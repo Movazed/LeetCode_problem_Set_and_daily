@@ -339,6 +339,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
@@ -350,6 +351,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
@@ -498,6 +500,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Graph Theory
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -505,4 +508,8 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
