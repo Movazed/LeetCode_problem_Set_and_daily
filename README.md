@@ -26,6 +26,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0485-max-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0517-super-washing-machines) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
@@ -348,6 +349,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [0420-strong-password-checker](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0517-super-washing-machines) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
