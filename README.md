@@ -118,6 +118,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
+| [0591-tag-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0591-tag-validator) |
 | [0696-count-binary-substrings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -184,6 +185,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
+| [0591-tag-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0591-tag-validator) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
