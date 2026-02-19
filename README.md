@@ -76,6 +76,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0335-self-crossing](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0391-perfect-rectangle) |
+| [0458-poor-pigs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0458-poor-pigs) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -189,6 +190,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0354-russian-doll-envelopes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0458-poor-pigs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -267,6 +269,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0458-poor-pigs) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Counting
 |  |
