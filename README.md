@@ -115,6 +115,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0466-count-the-repetitions](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
 | [0696-count-binary-substrings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -204,6 +205,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0466-count-the-repetitions](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -319,6 +321,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
+| [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -329,6 +332,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0301-remove-invalid-parentheses) |
 | [0488-zuma-game](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
