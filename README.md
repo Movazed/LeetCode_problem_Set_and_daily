@@ -122,6 +122,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0514-freedom-trail](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0514-freedom-trail) |
 | [0591-tag-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0591-tag-validator) |
 | [0639-decode-ways-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0639-decode-ways-ii) |
+| [0664-strange-printer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -217,6 +218,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0546-remove-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0639-decode-ways-ii) |
+| [0664-strange-printer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0664-strange-printer) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
