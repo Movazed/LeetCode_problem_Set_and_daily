@@ -393,6 +393,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Database
 |  |
 | ------- |
+| [0601-human-traffic-of-stadium](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0601-human-traffic-of-stadium) |
 | [1158-market-analysis-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1158-market-analysis-i) |
 ## Concurrency
 |  |
