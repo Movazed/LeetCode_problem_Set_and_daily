@@ -89,6 +89,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0391-perfect-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0483-smallest-good-base) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -264,6 +265,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
 | [0691-stickers-to-spell-word](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
