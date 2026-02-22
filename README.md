@@ -266,6 +266,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0691-stickers-to-spell-word](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0868-binary-gap) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
