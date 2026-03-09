@@ -186,6 +186,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2483-minimum-penalty-for-a-shop](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2485-find-the-pivot-integer) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -245,6 +246,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
