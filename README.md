@@ -95,6 +95,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -350,6 +351,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
 | [0715-range-module](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0715-range-module) |
+| [1622-fancy-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -485,6 +487,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
 | [0699-falling-squares](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0699-falling-squares) |
 | [0715-range-module](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0715-range-module) |
+| [1622-fancy-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
