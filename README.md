@@ -65,6 +65,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3379-transformed-array) |
@@ -188,6 +189,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2483-minimum-penalty-for-a-shop](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2485-find-the-pivot-integer) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -322,6 +324,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Enumeration
 |  |
 | ------- |
