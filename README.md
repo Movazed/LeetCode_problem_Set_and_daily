@@ -54,6 +54,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
@@ -326,6 +327,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
