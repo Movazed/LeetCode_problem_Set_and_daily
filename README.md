@@ -64,6 +64,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -108,6 +109,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2485-find-the-pivot-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2485-find-the-pivot-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -230,6 +232,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1929-concatenation-of-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 ## Dynamic Programming
@@ -336,6 +339,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
