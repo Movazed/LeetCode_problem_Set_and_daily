@@ -63,6 +63,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -152,6 +153,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3714-longest-balanced-substring-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3714-longest-balanced-substring-ii) |
@@ -262,6 +264,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -338,6 +341,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -435,6 +439,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1975-maximum-matrix-sum) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 ## Memoization
 |  |
@@ -579,6 +584,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
+| [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 ## Bitmask
 |  |
 | ------- |
