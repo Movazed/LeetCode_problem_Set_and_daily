@@ -156,12 +156,14 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3714-longest-balanced-substring-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -444,6 +446,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Memoization
 |  |
 | ------- |
