@@ -1,37 +1,71 @@
+#include <functional>
+#include <memory>
+#define lp(i, n) for(int i = 0; i < n; i++)
+#define lpp(i, s, n) for(int i = s; i < n; i++)
+
+class solution {
+    using fn = std::function<bool(const int*, int, int)>;
+    using ptr = void*;
+    
+    template<typename t>
+    t* allocate(int sz) {
+        return reinterpret_cast<t*>(operator new(sz * sizeof(t)));
+    }
+    
+    template<typename t>
+    void deallocate(t* p) {
+        operator delete(reinterpret_cast<ptr>(p));
+    }
+    
+    fn chk = [this](const int* fr, int mx, int dc) -> bool {
+        return (mx * dc == std::distance(fr, fr + 26)) ? true : 
+               (dc == 1) ? true : false;
+    };
+    
+public:
+    int longestbalanced(std::string s) {
+        int n = s.length();
+        int rs = 0;
+        
+        lp(i, n) {
+            int* fr = allocate<int>(26);
+            lp(j, 26) fr[j] = 0;
+            
+            int mx = 0, dc = 0;
+            
+            lpp(j, i, n) {
+                int ix = s[j] - 'a';
+                fr[ix]++;
+                dc = (fr[ix] == 1) ? dc + 1 : dc;
+                mx = (fr[ix] > mx) ? fr[ix] : mx;
+                
+                int ln = j - i + 1;
+                rs = ((mx * dc == ln) || (dc == 1)) ? 
+                     ((ln > rs) ? ln : rs) : rs;
+            }
+            
+            deallocate(fr);
+        }
+        
+        return rs;
+    }
+};
+
+class wrapper {
+    std::unique_ptr<solution> sl;
+    
+public:
+    wrapper() : sl(std::make_unique<solution>()) {}
+    
+    int operator()(std::string s) {
+        return sl->longestbalanced(s);
+    }
+};
+
 class Solution {
 public:
     int longestBalanced(string s) {
-        int n = s.length();
-        int maxLen = 0;
-        
-        // Try all possible starting positions
-        for (int i = 0; i < n; i++) {
-            int freq[26] = {0};
-            int maxFreq = 0;
-            int distinctChars = 0;
-            
-            // Expand window from position i
-            for (int j = i; j < n; j++) {
-                int idx = s[j] - 'a';
-                
-                // Update distinct characters count
-                if (freq[idx] == 0) {
-                    distinctChars++;
-                }
-                freq[idx]++;
-                maxFreq = max(maxFreq, freq[idx]);
-                
-                // Check if current substring is balanced
-                // A substring is balanced if:
-                // 1. All characters have same frequency: maxFreq * distinctChars == length
-                // 2. OR only one character type exists: distinctChars == 1
-                int len = j - i + 1;
-                if (maxFreq * distinctChars == len || distinctChars == 1) {
-                    maxLen = max(maxLen, len);
-                }
-            }
-        }
-        
-        return maxLen;
+        auto oo = wrapper();
+        return oo(s);
     }
 };
