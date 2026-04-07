@@ -162,6 +162,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
 |  |
@@ -198,6 +199,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -370,6 +372,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3713-longest-balanced-substring-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -384,6 +387,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3713-longest-balanced-substring-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
