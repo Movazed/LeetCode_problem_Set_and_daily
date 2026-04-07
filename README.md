@@ -245,6 +245,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
@@ -402,6 +403,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
 | [0715-range-module](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0715-range-module) |
 | [1622-fancy-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
