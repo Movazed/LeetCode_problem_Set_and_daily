@@ -90,6 +90,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
@@ -252,6 +253,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -527,6 +529,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0493-reverse-pairs) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
 |  |
