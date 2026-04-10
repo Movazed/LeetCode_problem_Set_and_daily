@@ -93,6 +93,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +205,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3713-longest-balanced-substring-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Prefix Sum
 |  |
 | ------- |
