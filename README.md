@@ -124,6 +124,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
