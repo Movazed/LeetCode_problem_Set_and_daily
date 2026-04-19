@@ -54,6 +54,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
@@ -133,6 +134,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
 | [0696-count-binary-substrings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -497,6 +499,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3454-separate-squares-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3454-separate-squares-ii) |
