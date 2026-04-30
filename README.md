@@ -100,6 +100,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -302,6 +303,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -386,6 +388,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
