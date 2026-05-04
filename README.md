@@ -6,6 +6,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
@@ -105,6 +106,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0066-plus-one) |
 | [0282-expression-add-operators](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0335-self-crossing) |
@@ -369,6 +371,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
