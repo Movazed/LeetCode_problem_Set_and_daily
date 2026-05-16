@@ -10,6 +10,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0066-plus-one](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0321-create-maximum-number) |
@@ -503,6 +504,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
