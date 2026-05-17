@@ -46,6 +46,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1306-jump-game-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -451,6 +452,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1306-jump-game-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
@@ -464,6 +466,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0662-maximum-width-of-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1306-jump-game-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
