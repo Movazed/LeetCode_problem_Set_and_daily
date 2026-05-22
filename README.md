@@ -6,6 +6,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0085-maximal-rectangle) |
@@ -509,6 +510,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0315-count-of-smaller-numbers-after-self) |
