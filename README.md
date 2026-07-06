@@ -47,6 +47,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -360,6 +361,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0757-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
