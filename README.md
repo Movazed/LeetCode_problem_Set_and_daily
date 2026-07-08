@@ -138,6 +138,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
@@ -188,6 +189,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -249,6 +251,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3721-longest-balanced-subarray-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
 |  |
 | ------- |
