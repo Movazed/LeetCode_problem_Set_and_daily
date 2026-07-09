@@ -94,6 +94,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3488-closest-equal-element-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3488-closest-equal-element-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -224,6 +225,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -537,6 +539,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3454-separate-squares-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -651,6 +654,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -663,6 +667,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bitmask
 |  |
 | ------- |
