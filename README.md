@@ -95,6 +95,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -151,6 +152,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -318,6 +320,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -355,6 +358,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -383,6 +387,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 ## Matrix
@@ -511,6 +516,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -540,6 +546,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3454-separate-squares-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -655,6 +662,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
