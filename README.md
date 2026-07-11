@@ -476,6 +476,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
+| [2685-count-the-number-of-complete-components](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
@@ -489,6 +490,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1306-jump-game-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2092-find-all-people-with-secret) |
+| [2685-count-the-number-of-complete-components](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -660,6 +662,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -675,6 +678,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0685-redundant-connection-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0685-redundant-connection-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bitmask
 |  |
