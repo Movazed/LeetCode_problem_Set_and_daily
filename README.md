@@ -421,6 +421,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
