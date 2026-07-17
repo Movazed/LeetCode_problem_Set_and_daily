@@ -86,6 +86,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -136,6 +137,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2485-find-the-pivot-integer](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -231,6 +233,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3488-closest-equal-element-queries) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -255,6 +258,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -440,12 +444,14 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0458-poor-pigs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Counting
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0299-bulls-and-cows) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
@@ -555,6 +561,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2054-two-best-non-overlapping-events) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3454-separate-squares-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -709,6 +716,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
