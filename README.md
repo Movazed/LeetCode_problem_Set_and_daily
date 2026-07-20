@@ -46,6 +46,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1260-shift-2d-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1301-number-of-paths-with-max-score) |
@@ -289,6 +290,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0874-walking-robot-simulation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1929-concatenation-of-array) |
@@ -413,6 +415,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0289-game-of-life](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0289-game-of-life) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
