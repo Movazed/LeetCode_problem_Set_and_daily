@@ -144,6 +144,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -408,6 +409,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3433-count-mentions-per-user](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
