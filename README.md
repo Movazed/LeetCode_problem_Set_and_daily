@@ -32,6 +32,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0502-ipo](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0546-remove-boxes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
@@ -128,6 +129,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0391-perfect-rectangle](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0483-smallest-good-base) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
@@ -385,6 +387,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0354-russian-doll-envelopes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0354-russian-doll-envelopes) |
 | [0472-concatenated-words](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0645-set-mismatch) |
