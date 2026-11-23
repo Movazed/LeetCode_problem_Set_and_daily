@@ -54,6 +54,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [1306-jump-game-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
@@ -132,6 +133,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0628-maximum-product-of-three-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0840-magic-squares-in-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1622-fancy-sequence) |
@@ -257,6 +259,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -481,6 +484,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0460-lfu-cache) |
 | [0715-range-module](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0715-range-module) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
@@ -671,6 +675,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
