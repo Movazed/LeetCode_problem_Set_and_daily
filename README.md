@@ -118,6 +118,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -349,6 +350,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Queue
 |  |
 | ------- |
@@ -555,6 +557,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3074-apple-redistribution-into-boxes](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3074-apple-redistribution-into-boxes) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
