@@ -119,6 +119,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3742-maximum-path-score-in-a-grid](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -421,6 +422,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -558,6 +560,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [3474-lexicographically-smallest-generated-string](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -700,6 +703,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [2402-meeting-rooms-iii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Movazed/LeetCode_problem_Set_and_daily/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Graph Theory
 |  |
 | ------- |
